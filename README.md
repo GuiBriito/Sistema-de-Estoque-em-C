@@ -24,4 +24,4 @@ A construção deste sistema permitiu o domínio de conceitos fundamentais de en
    ```bash
    git clone [https://github.com/GuiBriito/Qr_Cold.git](https://github.com/GuiBriito/Qr_Cold.git)
 
-[Voltar ao início](https://github.com/GuiBriito/Portifolio_Joao_Guilherme_da_Silva)
+[Voltar ao início](https://github.com/GuiBriito/Sistema-de-Estoque-em-C)
